@@ -14,3 +14,5 @@ You can also visit my blog: https://nicefe.dev .
 ## About me
 
 Currently working in Beijing.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
