@@ -11,8 +11,6 @@ This is my GitHub. I will often share my study notes and daily. Currently learni
 
 You can also visit my blog: https://nicefe.dev .
 
-Currently working in Beijing.
-
 ## Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imhxc)](https://github.com/imhxc)
